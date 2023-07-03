@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hujale
-- 👀 I’m interested in data analytics, data science, machine learning, Ai
-- 🌱 I’m currently learning data analysis and Ai
-- 💞️ I’m looking to collaborate on data science Projcets 
+- 👀 I’m interested in Networking, Cyber security, Automation, cloud
+- 🌱 I’m currently learning Cyber security and Cloud
+- 💞️ I’m looking to collaborate on Cyber security Projcets 
 - 📫 How to reach me 
 
 <!---
